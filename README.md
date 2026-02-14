@@ -28,9 +28,6 @@ I am a self-taught developer from Brazil with a strong interest in command-line 
 </p>
 
 ### Featured Projects
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzero210&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
 
 - **[Writing-practice](https://github.com/arthurzero210/Writing-practice-but-bad)** — Writing Practice with Jetset Radio SFXs
 - **[File-organizer](https://github.com/arthurzero210/file-organizer-python)** — File organizer but bad, it was my first project.
