@@ -6,7 +6,7 @@
 
   <img src="https://github.com/arthurzero210/arthurzero210/blob/main/assets/dev-working.gif" width="400" alt="Developer working animation" />
 
-  <h3>Arthur Zero210</h3>
+  <h1>arthurzero210</h1>
   <p>Brazilian developer focused on creating clean, efficient and practical tools.</p>
 
 </div>
