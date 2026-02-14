@@ -6,7 +6,7 @@
 
   <img src="https://github.com/arthurzero210/arthurzero210/blob/main/assets/dev-working.gif" width="400" alt="Developer working animation" />
 
-  <h3>Arthur Zero210</h3>
+  <h3>arthurzero210</h3>
   <p>Brazilian Software Engineer focused on building clean, efficient and practical tools. Passionate about open-source, automation, and creating solutions that make life easier for developers and users alike.</p>
 
 </div>
@@ -32,10 +32,8 @@ I am a self-taught developer from Brazil with a strong interest in command-line 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzero210&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
-- **[pypass-cli](https://github.com/arthurzero210/pypass-cli)** — Lightweight terminal-based password manager (in progress)
-- **[pybank-cli](https://github.com/arthurzero210/pybank-cli)** — Simple banking terminal simulation in Python
-- **[lua-cli-tools](https://github.com/arthurzero210/lua-cli-tools)** — Collection of practical CLI utilities in Lua
-
+- **[Writing-practice](https://github.com/arthurzero210/Writing-practice-but-bad)** — Writing Practice with Jetset Radio SFXs
+- **[File-organizer](https://github.com/arthurzero210/file-organizer-python)** — File organizer but bad, it was my first project.
 ### Let's Connect
 <p align="center">
   <a href="https://github.com/arthurzero210">
