@@ -35,6 +35,7 @@ I am a self-taught developer from Brazil with a strong interest in command-line 
 <p align="center">
   <a href="https://github.com/arthurzero210">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://discord.com/channels/@me" alt="Discord: arthurzero210" />
   </a>
   <!-- Adicione Discord, LinkedIn ou outros links aqui se quiser -->
 </p>
