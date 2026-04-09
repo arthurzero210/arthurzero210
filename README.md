@@ -1,23 +1,26 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Arthur;Software+Engineer;Brazilian+Developer;CLI+Tools+%26+Bots;Automation+%26+Scripts;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+a+strange+person;I+break+code+daily;Brazilian+Developer;CLI+stuff+%26+random+projects;Automation+when+I'm+lazy;Learning+because+I+have+to" alt="Typing SVG" />
 
   <br><br>
 
   <img src="https://github.com/arthurzero210/arthurzero210/blob/main/assets/dev-working.gif" width="400" alt="Developer working animation" />
 
   <h3>arthurzero210</h3>
-  <p>Brazilian Software Engineer focused on building clean, efficient and practical tools. Passionate about open-source, automation, and creating solutions that make life easier for developers and users alike.</p>
+  <p>just a brazilian dev making random stuff, breaking things and sometimes fixing them 👍</p>
 
 </div>
 
 ### About Me
-I am a self-taught developer from Brazil with a strong interest in command-line interfaces, bots, scripting, and automation. My goal is to create lightweight, reliable, and user-friendly tools that solve real problems — whether for personal use, productivity, or community projects.
+i'm a self-taught dev from brazil that likes messing with code until something works (or not)
 
-- 🔭 Currently exploring advanced CLI design, bot development, and system automation
-- 🌱 Learning and improving in Python, Lua/Luau, JavaScript, and C#
-- 👨‍💻 Building open-source projects and occasionally taking on custom commissions
-- 💬 Feel free to ask me about terminal tools, Discord bots, Roblox scripting, or automation ideas
+i build bots, scripts, cli tools and whatever idea shows up out of nowhere  
+sometimes useful, sometimes questionable  
+
+- 🔭 currently trying to make better CLI tools and less bugs (not working)
+- 🌱 learning python, lua/luau, javascript and a bit of c# (slowly but surely)
+- 👨‍💻 building random open-source stuff and projects i might abandon later
+- 💬 ask me about bots, roblox scripting, automation or weird project ideas
 
 ### Tech Stack
 <p align="center">
@@ -29,19 +32,21 @@ I am a self-taught developer from Brazil with a strong interest in command-line 
 
 ### Featured Projects
 
-- **[Writing-practice](https://github.com/arthurzero210/Writing-practice-but-bad)** — Writing Practice with Jetset Radio SFXs
-- **[File-organizer](https://github.com/arthurzero210/file-organizer-python)** — File organizer but bad, it was my first project.
+- **[Writing-practice](https://github.com/arthurzero210/Writing-practice-but-bad)** — typing practice but with chaos
+- **[File-organizer](https://github.com/arthurzero210/file-organizer-python)** — my first project... don't judge
+
 ### Let's Connect
 <p align="center">
   <a href="https://github.com/arthurzero210">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://discord.com/channels/@me" alt="Discord: arthurzero210" />
   </a>
-  <!-- Adicione Discord, LinkedIn ou outros links aqui se quiser -->
+  
+  <a href="https://discord.com/users/SEU_ID_AQUI">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
-
 <div align="center">
   <img src="https://github.com/arthurzero210/arthurzero210/blob/main/assets/code.gif" width="300" alt="Coding animation" />
   <br><br>
-  <p><i>"Code. Learn. Build. Repeat."</i></p>
+  <p><i>"it works. don't touch it."</i></p>
 </div>
